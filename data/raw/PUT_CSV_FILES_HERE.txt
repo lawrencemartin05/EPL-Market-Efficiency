@@ -1,0 +1,5 @@
+Download the Premier League file (E0.csv) for each season you want from
+https://www.football-data.co.uk/englandm.php and save them all in this folder.
+
+File names don't matter (E0.csv, E0 (1).csv ... are all fine): the season is read
+from the match dates. Use at least 3 full seasons; 5 is the plan.
