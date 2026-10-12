@@ -10,7 +10,7 @@ out of sample on accuracy and on a simulated betting strategy.
 
 ## Results
 
-**Short answer: the market priced risk well, and a model built only on past goals could not beat it.
+**Short answer: the market priced outcomes well, and a model built only on past goals could not beat it.
 The model's "value bets" lost 17.5%, far more than the 4.7% bookmaker margin, because the model
 systematically underrated favourites, so it kept backing underdogs the market had priced correctly.**
 
